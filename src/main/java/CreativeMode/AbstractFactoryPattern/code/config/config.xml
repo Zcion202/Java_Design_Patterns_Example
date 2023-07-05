@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<Config>
+    <package>CreativeMode.AbstractFactoryPattern.code.ConcreteFactory</package>
+    <class>SummerSkinFactory</class>
+</Config>
